@@ -8,13 +8,7 @@
         * DogHouse
 * **Purpose:**
     * To establish familiarity with Test-Driven-Development (TDD) practices.
-* **Getting context:**
-	* Click [here](https://github.com/Zipcoder/TDD-AnimalFactory/blob/master/README-TDDPatterns.md) to gain more familiarity with TDD-structured programming.
 
-## Getting Started
-* Begin by opening the project via its `pom.xml` with IntelliJ.
-    * [How do I install IntelliJ](https://github.com/Zipcoder/Maven.TDD-AnimalFactory/blob/master/README-InstallingIntelliJ.md)?
-* Continue by opening the `test.java.rocks.zipcodewilmington` package and completing each of the `TODO`s.
 
 ### CatTest
 * Create tests for `void setName(String name)`
@@ -79,4 +73,4 @@
 * Create tests for `Integer getNumberOfDogs()`
     * ensure that when `.getNumberOfDogs()` is invoked on the `DogHouse`, the respective number of `Dog` objects is returned.
 
-# tdd-animal-factory
+
